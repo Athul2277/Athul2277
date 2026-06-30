@@ -1,4 +1,4 @@
-## Hi, Athul here👋
+# Hello! I'm Athul KV 👋 
 
 # 💫 About Me:
 💻 B.Tech CSE (Data Science) student<br>🤖 Passionate about AI, Machine Learning & Software Development<br>🌱 Currently learning Python & SQL<br>🚀 Building real-world projects and exploring open source<br>💼 Open to internship opportunities.
