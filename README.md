@@ -18,6 +18,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Athul2277&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Athul2277&icon=0&color=4)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Athul2277&icon=0&color=red)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
